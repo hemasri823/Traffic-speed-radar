@@ -33,13 +33,10 @@ The system processes video feeds to identify vehicles, tracks their movement acr
 
 Ensure you have Python installed along with the required libraries:
 
-```bash
 pip install opencv-python numpy
 ## 🚀 Installation
 
 Clone the repository:
-
-```bash
 git clone https://github.com/hemasri823/Traffic-speed-radar.git
 cd Traffic-speed-radar
 Run the application:
