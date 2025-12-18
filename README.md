@@ -45,6 +45,8 @@ cd Traffic-speed-radar
 Run the application:
 
 python SpeedRadar2.py
+
+---
 ## 📂 File Description
 
 - `SpeedRadar2.py`: The main script for processing video and estimating speed.  
